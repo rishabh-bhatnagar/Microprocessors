@@ -5,3 +5,6 @@ tasml.bat
 TASMX.EXE
 TD.EXE
 TLINK.EXE
+*.EXE
+*.MAP
+*.OBJ
